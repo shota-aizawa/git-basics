@@ -1,4 +1,3 @@
-This is a practice of my first repo 
-==========
+Git Basics
 
-Remote repo to help me test out my Git Skillz!
+I'm learning the basics of Git and Github, so this repo is really just for experimenting
